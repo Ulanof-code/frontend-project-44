@@ -7,3 +7,6 @@
 
 ### Example usage brain-calc:
 [![asciicast](https://asciinema.org/a/ohcJxHIATJizZdliD70DGEDWt.svg)](https://asciinema.org/a/ohcJxHIATJizZdliD70DGEDWt)
+
+### Example usage brain-gcd:
+[![asciicast](https://asciinema.org/a/kDbDcvcCQrjZH4bsrNuQxn7HM.svg)](https://asciinema.org/a/kDbDcvcCQrjZH4bsrNuQxn7HM)
