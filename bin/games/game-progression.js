@@ -8,7 +8,7 @@ export const getQuestAndAnswer = () => {
   const step = _.random(2, 5);
   const finalValue = _.random(step * 10, 50);
   const startValue = _.random(0, (finalValue - (step * 10)));
-  const secretNumber = _.random(0, _.range(startValue, finalValue, step).length);
+  const secretNumber = _.random(0, _.range(startValue, finalValue, step).length - 1);
   const progression = buildProgression(startValue, finalValue, step);
   const correctAnswer = String(progression[secretNumber]);
   progression[secretNumber] = '..';
