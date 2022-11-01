@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Console utility that allows you to play five logical games",
   "bin": {
-    "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/scripts/brain-even.js",
+    "brain-calc": "bin/scripts/brain-calc.js"
   },
   "type": "module",
-  "main": "index.js",
+  "main": "game-engine.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

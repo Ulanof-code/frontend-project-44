@@ -4,3 +4,6 @@
 
 ### Example usage brain-even:
 [![asciicast](https://asciinema.org/a/swnVgBkYZ865xthNxCBSVEIPb.svg)](https://asciinema.org/a/swnVgBkYZ865xthNxCBSVEIPb)
+
+### Example usage brain-calc:
+[![asciicast](https://asciinema.org/a/ohcJxHIATJizZdliD70DGEDWt.svg)](https://asciinema.org/a/ohcJxHIATJizZdliD70DGEDWt)
