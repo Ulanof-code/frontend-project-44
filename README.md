@@ -10,3 +10,6 @@
 
 ### Example usage brain-gcd:
 [![asciicast](https://asciinema.org/a/kDbDcvcCQrjZH4bsrNuQxn7HM.svg)](https://asciinema.org/a/kDbDcvcCQrjZH4bsrNuQxn7HM)
+
+### Example usage brain-progression:
+[![asciicast](https://asciinema.org/a/yqgublskiCcUUpxEguA6HnCok.svg)](https://asciinema.org/a/yqgublskiCcUUpxEguA6HnCok)
