@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Console utility that allows you to play five logical games",
   "bin": {
+    "brain-games": "bin/scripts/brain-games.js",
     "brain-even": "bin/scripts/brain-even.js",
     "brain-calc": "bin/scripts/brain-calc.js",
     "brain-gcd": "bin/scripts/brain-gcd.js",
