@@ -6,7 +6,8 @@
     "brain-even": "bin/scripts/brain-even.js",
     "brain-calc": "bin/scripts/brain-calc.js",
     "brain-gcd": "bin/scripts/brain-gcd.js",
-    "brain-progression": "bin/scripts/brain-progression.js"
+    "brain-progression": "bin/scripts/brain-progression.js",
+    "brain-prime": "bin/scripts/brain-prime.js"
   },
   "type": "module",
   "main": "game-engine.js",

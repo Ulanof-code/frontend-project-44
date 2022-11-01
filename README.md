@@ -13,3 +13,6 @@
 
 ### Example usage brain-progression:
 [![asciicast](https://asciinema.org/a/yqgublskiCcUUpxEguA6HnCok.svg)](https://asciinema.org/a/yqgublskiCcUUpxEguA6HnCok)
+
+### Example usage brain-prime:
+[![asciicast](https://asciinema.org/a/lbEdBkkDwjUN92E01BkjyY71b.svg)](https://asciinema.org/a/lbEdBkkDwjUN92E01BkjyY71b)
